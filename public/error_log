@@ -1,0 +1,5 @@
+[26-Sep-2020 04:40:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/travelm2/laravel/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Sep-2020 04:40:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/travelm2/laravel/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Sep-2020 04:40:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/travelm2/laravel/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Sep-2020 04:40:52 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/travelm2/laravel/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[30-Sep-2020 19:44:19 UTC] PHP Fatal error:  Cannot use App\TravelPackage as TravelPackage because the name is already in use in /home/travelm2/laravel/app/Http/Controllers/HomeController.php on line 7
